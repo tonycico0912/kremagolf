@@ -4,6 +4,10 @@ import React from 'react';
 // 골프대회 영상 목록
 const videos = [
   {
+    id: 'Ze9XcHF_rEY',
+    title: '2025년 협회장배 골프대회 기념영상'
+  },
+  {
     id: 'zRHsQbINEdQ',
     title: '골프회 첫참석자 인사'
   },
