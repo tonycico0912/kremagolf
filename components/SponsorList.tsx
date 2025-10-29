@@ -36,7 +36,7 @@ const goodsSponsors = [
 const SponsorList: React.FC = () => {
     return (
         <section>
-            <h2 className="text-3xl font-bold text-center mb-8 text-gray-800">소중한 후원</h2>
+            <h2 className="text-3xl font-bold text-center mb-8 text-gray-800">2025년 협회장배 골프대회를 후원해 주신분들</h2>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
                 <div className="bg-white p-6 rounded-lg shadow-md">
                     <h3 className="text-2xl font-semibold mb-4 text-green-700 flex items-center"><i className="fas fa-coins mr-3 text-yellow-500"></i>후원금</h3>
