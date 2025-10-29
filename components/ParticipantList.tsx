@@ -13,6 +13,13 @@ const participants = [
 const ParticipantList: React.FC = () => {
   return (
     <section>
+      <div className="mb-8">
+        <img
+          src="/banner/1.jpg"
+          alt="2025 협회장배 골프대회"
+          className="w-full rounded-lg shadow-lg"
+        />
+      </div>
       <h2 className="text-3xl font-bold text-center mb-8 text-gray-800">참가자 명단 (52명)</h2>
       <div className="bg-white p-6 rounded-lg shadow-md">
         <div className="columns-2 sm:columns-3 md:columns-4 lg:columns-5 gap-x-6">
