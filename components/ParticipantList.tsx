@@ -16,7 +16,7 @@ const ParticipantList: React.FC = () => {
       <div className="mb-8">
         <img
           src="/banner/1.jpg"
-          alt="2025 협회장배 골프대회"
+          alt="2025년 한국부동산마케팅협회 협회장배 골프대회"
           className="w-full rounded-lg shadow-lg"
         />
       </div>
