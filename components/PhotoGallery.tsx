@@ -426,7 +426,7 @@ const PhotoGallery: React.FC = () => {
           <div className="bg-rose-50 border-2 border-rose-200 rounded-lg p-6 max-w-2xl mx-auto">
             <h3 className="text-xl font-semibold text-rose-800 mb-4">수상팀 (5조)</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-gray-700">
-              <p className="font-medium">✓ 정명숙 대표님</p>
+              <p className="font-medium">✓ 정명숙 부회장님</p>
               <p className="font-medium">✓ 박선주 대표님</p>
               <p className="font-medium">✓ 지현경 대표님</p>
               <p className="font-medium">✓ 함초롬 대표님</p>
