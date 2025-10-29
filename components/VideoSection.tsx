@@ -50,6 +50,10 @@ const videos = [
   {
     id: 'bDflpeMm0gI',
     title: '포토제닉 우승 시상 - 수상팀 (1조) 장영호 회장님, 문상호 대표님, 윤점식 대표님, 강규영 대표님'
+  },
+  {
+    id: '2aswTWNsom0',
+    title: '감사인사 및 폐회 건배'
   }
 ];
 
